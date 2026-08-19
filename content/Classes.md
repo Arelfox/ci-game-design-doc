@@ -1,0 +1,220 @@
+# Classes
+- Classes are a collection of skills, weapons, and attributes which change how a player will enter and survive in each run
+- All classes should generally start weak and become stronger with gear
+- Class active and passive abilities must be scalable with the player's gear (more relevant late game), or at least stay relevant the entire game
+- Classes must remain unique throughout the run (especially endgame): homogenous classes are boring
+- Active abilities should not be spammable but they should also not have arbitrary cooldowns or cost power (power is already too useful elsewhere, making abilities cost it is too much)
+- Hire (unlock) new characters with resources
+
+## Wolf
+- the starter class: balanced arsenal, average speed, good defense in short bursts, not too many obvious drawbacks
+- starts with light shield
+- ### Weapons
+	- medium ar (k.m.)
+		- good dps, medium pen
+	- bullpup ar (duvallier)
+		- medium damage, high pen, high recoil, below average mag size
+	- shotgun (korvan)
+		- high single shot damage, medium pen, low mag size, low accuracy
+	- medium pistol (duvallier)
+		- medium damage, average pen, average rate of fire, good ammo efficiency, low recoil
+	- coilgun (h.a.s.)
+		- maintains full accuracy while magnetic protection system is active
+		- low damage, low pen, high firerate, high mag size
+		- autoaims a little bit towards weak spots
+- ### Skills
+	- #### Slot 1: (support)
+		- plasma recycler: all shields regenerate slowly without the need for power
+			- scales with gear as stronger shields require more power, which you can get for free
+			- relevant the entire run
+			- (or maybe gun muzzle gas recharges it)
+		- magnetic protection system
+			- same type as the [ocelot boss](Enemies.md)
+			- high unlock requirement (make it feel more exotic because it is exotic)
+			- incoming fire is redirected away from you, making you invulnerable to kinetic attacks (but not explosives)
+				- vs normal plasma aps shields which predetonate explosives, making them deal less damage
+			- same activation as shield, only spends power when a projectile is being redirected
+			- weapons become extremely inaccurate while powered (with the exception of coilguns and railguns)
+				- changes class playstyle from aggressive to completely defensive
+	- #### Slot 2: (active)
+		- black market shield mod
+			- overvolts shield forward into a spike, giving a medium ranged offensive ability at the cost of tons of power
+			- autoaims and completely melts incoming projectiles during active time
+			- causes minor self damage
+		- parallel overflow capacitor
+			- when shield is full, charges a secondary overflow capacitor
+			- when activate, spends stored energy to increase shield effectiveness (somewhat slow to fully activate to prevent microing and spam)
+		- chamber plasma injector?
+			- generates plasma inside a weapon when fired, increasing damage and penetration but also increases recoil and decreases firerate slightly
+			- uses some power of course
+		- ~~(name)~~
+			- ~~use charge to create an area of pressure behind, pushing you in the direction of movement like a dash (?)~~
+	- #### Slot 3: (passive)
+		- unstable projector
+			- being hit uses some of the bullets energy and displacement to throw a medium range scatter of plasma back in the direction of the shot
+		- undervolt
+			- reduces shield protection by 25% but decreases power useage per activation by 60%
+		- overvolt
+			- increases shield protection by 50% but increases power usage by 100%
+## Bear
+- high pen heavy weapons, very slow walkspeed, bad weapon handling, tons of physical armor and survivability (resource intensive to repair if you are reckless)
+- ### Weapons
+	- lmg (korvan)
+		- high damage, medium pen, huge mag size, long reload, below average firerate
+		- looks sick
+		- cant ads (chainsaw grip)
+	- heavy pistol (duvallier)
+		- high damage, high pen, below average rate of fire, low mag size, fast reload
+		- good ammo efficiency, rewards aiming
+	- shotgun (duvallier)
+		- large (for shotgun) mag size, very high damage, semi auto, average pen
+	- medium smg (km)
+		- medium damage, medium pen, very fast firerate, above average recoil
+	- amr? (i want to save this for another class)
+- ### Skills
+	- #### Slot 1: (base armor)
+		- plate underarmor
+			- reduces partial penetration damage by 25%
+			- provides 10mm equivalent armor
+			- repair with metal or alloy
+		- kevlar underarmor
+			- reduces partial penetration damage by 75%
+			- also provides 4mm equivalent of armor
+			- repair with polymer
+		- reactive underarmor
+			- reduces partial penetration damage by 25%
+			- 15mm equivalent for 3 hits (>10mm to pen activate) per body part, then 2mm
+			- repair with explosives
+		- heavy exoskeleton
+			- negates all armor weight debuffs
+			- improves gun handling
+		- plate shield
+			- strap a 20mm thick ballistic shield on your left arm
+			- reduces gun handling dramatically
+	- #### Slot 2: (utility)
+		- piezoelectric padding
+			- generates power on hit
+		- portable print arm
+			- also can repair external armor with metal/alloy (instead of only in printers)
+		- ~~shield repairs~~
+			- ~~if a shield is equipped, the plasma will reweld armor and it will not lose durability~~
+			- ~~kinda redundant but i wanted to write it down in case~~
+	- #### Slot 3: (health stuff)
+		- bone plating
+			- cap incoming damage to 40
+		- (need name and engineering/lore explaination)
+			- damage is deferred over a period of time
+## Fox
+- light low heat weapons, fast, no survivability in direct fire (but can become invisible)
+	- balanced because the fox can always shoot weakspots and position anywhere, or run away any time (ultimate control)
+- (see [[Story]] for explanation of heat)
+- ## Weapons
+	- light smg (wardell)
+		- high rof, low damage, average pen
+		- doesnt need high pen to be effective bc of weakspots
+	- machine pistol (wardell)
+		- medium damage, low pen, very high rate of fire
+		- very fast reload and low magazine size, synergies with mag heatsink skill
+	- shotgun (korvan)
+		- high damage in cqc, medium pen, low mag size
+		- run in, shoot, run out
+	- electrothermal rifle
+		- high pen, medium damage, more expensive ammo, average firerate
+			- no longer need weakspots
+		- generates a ton of heat, discourages use while invisible
+		- changes playstyle to use invisibility to get away instead of get behind
+	- super suppressed pistol
+		- low damage, low pen, low mag size, fast reload
+		- enemies no longer target you (sound signature too unclear) when you fire while invisible
+			- means you are actually untouchable while invis but you have to use a low caliber pistol
+	- ~~coilgun~~
+		- ~~low heat increase~~
+		- ~~ok this might be too op because it is also quieter than a suppressed pistol irl so not only can you not get targeted at all you can stay cloaked for so long while shooting~~
+- ### Skills
+	- #### Slot 1:
+		- wears active camo suit, become invisible at will
+			- staying invisible builds heat and eventually starts damaging you
+				- in lore this is because it masks the thermal signature on top of radar and visual stuff
+				- and you also have fur which makes it worse lol
+			- can shoot while invisible but it further increases heat and enemies can still target you based on the sound unless you move
+			- relevant the entire run, but doesnt scale with gear
+			- cannot use medical items while invisible
+	- #### Slot 2: (heat subclass stuff)
+		- (name)
+			- heat also heats up melee weapons, dealing extra damage
+				- a little gamey but will make for a fun self damage melee build
+		- ac unit?
+			- spend power to reduce heat
+		- mag heatsink
+			- on reload, take off all heat
+			- completely melts mag in process
+			- obviously requires a mag fed weapon to work
+		- thermal insulation
+			- decrease heat increase, but also decrease heat decrease
+	- #### Slot 3: (movement)
+		- thermal actuators
+			- move faster as heat increases
+		- slide
+			- you can now slide like in movement shooters
+		- grappling hook
+			- im not coding this
+			- either too op being locked to a class which already can turn invisible or completely useless because its indoors
+## Badger (\*species tbd)
+- starts off with a micro drone
+- balanced longer range arsenal, average speed, low defense/survivability but can avoid direct engagement with drones
+- ## Weapons
+	- dmr (km)
+		- above average damage, medium pen, below average mag size, low recoil, accurate
+	- medium ar (km)
+		- good dps, medium pen
+		- just a basic rifle
+	- battle rifle (korvan)
+		- above average damage, medium pen, high recoil, below average mag size
+		- sidegrade to km ar
+	- lmg (km)
+		- medium damage, medium pen, average firerate, above average mag size
+- ### Skills
+	- #### Slot 1:
+		- fpv headset: can control all drones in first person view
+			- basically makes an individual one way more powerful movement, accuracy, and intelligence wise while keeping the player safe in a corner but requires you to stand still
+			- might be too op if drones are too cheap, maybe require printing an fpv adapter
+			- scales with gear as you get more/better drones, and is relevant the entire run
+		- clone action thingy (rename)
+			- flying drones stay very close to you and fire when you click (even if you are reloading)
+			- for qol maybe have the option for some to return to normal behavior or something
+			- um shielded drones for this might be op
+	- #### Slot 2: (defensive and utility)
+		- shield slots
+			- all drones (except micro) can now equip light shields (no power draw for drones otherwise too complex)
+		- equipment repacker (rename)
+			- saves gear/some resources on destroy
+			- (maybe have it fly back automatically)
+			- (or maybe make it seal up and disable itself to be repaired instead of dying but that might be too op)
+		- salvage arm?
+			- drones can now salvage destroyed robots with very high salvage rates
+			- allows usage of melee slot to not worry about salvage rates
+		- ~~seat~~
+			- ~~ride drones~~
+			- ~~joke idea wtf could this possibly do~~
+		- ~~datalink~~
+			- ~~enemies are marked when seen~~
+			- ~~this is stupid weak and a scouting system is not something i think is fun to add~~
+	- #### Slot 3: (offensive)
+		- equipment hardpoint(s)
+			- allows drones to also drop grenades, use more than default ammo, glowsticks, landmines, portable shield projectors, and even turrets
+			- some equipment have special activation ai
+				- ex: smoke grenade is used when the drone is too damaged
+				- ex: glowsticks are dropped when its dark
+			- portable shield projectors still require power cells
+			- turrets might be too op but are fun
+				- deployables may be reworked in multiplayer to always be placeable on drones, giving the fpv control a very useful and fun support role (otherwise it would be too hard to put one on a moving drone)
+		- rocket pods
+			- ***need to figure out ammo system for this***
+			- can fire small heat rockets do do big damage
+		- emergency protocol (rename)
+			- drones suicide bomb and explode when low health if near an enemy
+				- only damages enemy otherwise it would be kinda stupid
+			- hidden down side is that they lose some effective hp
+		- ~~modular upgrader~~
+			- ~~can merge drones to get more firepower and armor~~
+			- ~~i have no idea how modeling will work for this~~
