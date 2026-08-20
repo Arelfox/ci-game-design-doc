@@ -8,10 +8,10 @@
 
 (See [Weapons](Weapons.md) for manufacture details)
 
-## Wolf
+## 1. Wolf
 - the starter class: balanced arsenal, average speed, good defense in short bursts, not too many obvious drawbacks
 - starts with light shield
-- ### Weapons
+- ### 1.1 Weapons
 	- medium ar (k.m.)
 		- good dps, medium pen
 	- bullpup ar (duvallier)
@@ -24,7 +24,7 @@
 		- maintains full accuracy while magnetic protection system is active
 		- low damage, low pen, high firerate, high mag size
 		- autoaims a little bit towards weak spots
-- ### Skills
+- ### 1.2 Skills
 	- #### Slot 1: (support)
 		- plasma recycler: all shields regenerate slowly without the need for power
 			- scales with gear as stronger shields require more power, which you can get for free
@@ -58,10 +58,10 @@
 			- reduces shield protection by 25% but decreases power useage per activation by 60%
 		- overvolt
 			- increases shield protection by 50% but increases power usage by 100%
-## Bear
+## 2. Bear
 - heavy tank focused on being able to tank and return damage
 - high pen heavy weapons, very slow walkspeed, bad weapon handling, tons of physical armor and survivability (resource intensive to repair if you are reckless)
-- ### Weapons
+- ### 2.1 Weapons
 	- lmg (korvan)
 		- high damage, medium pen, huge mag size, long reload, below average firerate
 		- looks sick
@@ -74,7 +74,7 @@
 	- medium smg (km)
 		- medium damage, medium pen, very fast firerate, above average recoil
 	- amr? (i want to save this for another class)
-- ### Skills
+- ### 2.2 Skills
 	- #### Slot 1: (base armor)
 		- plate underarmor
 			- reduces partial penetration damage by 25%
@@ -107,12 +107,12 @@
 			- cap incoming damage to 40
 		- (need name and engineering/lore explaination)
 			- damage is deferred over a period of time
-## Fox
+## 3. Fox
 - light class focused on movement and being able to turn invisible
 - light low heat weapons, fast, no survivability in direct fire (but can become invisible)
 	- balanced because the fox can always shoot weakspots and position anywhere, or run away any time (ultimate control)
 - (see [[Story]] for explanation of heat)
-- ## Weapons
+- ## 3.1 Weapons
 	- light smg (wardell)
 		- high rof, low damage, average pen
 		- doesnt need high pen to be effective bc of weakspots
@@ -134,7 +134,7 @@
 	- ~~coilgun~~
 		- ~~low heat increase~~
 		- ~~ok this might be too op because it is also quieter than a suppressed pistol irl so not only can you not get targeted at all you can stay cloaked for so long while shooting~~
-- ### Skills
+- ### 3.2 Skills
 	- #### Slot 1:
 		- wears active camo suit, become invisible at will
 			- staying invisible builds heat and eventually starts damaging you
@@ -163,11 +163,11 @@
 		- grappling hook
 			- im not coding this
 			- either too op being locked to a class which already can turn invisible or completely useless because its indoors
-## Badger (\*species tbd)
+## 4. Badger (\*species tbd)
 - [drone](Drones.md) focused class
 - starts off with a micro drone
 - balanced longer range arsenal, average speed, low defense/survivability but can avoid direct engagement with drones
-- ## Weapons
+- ## 4.1 Weapons
 	- dmr (km)
 		- above average damage, medium pen, below average mag size, low recoil, accurate
 	- medium ar (km)
@@ -178,7 +178,7 @@
 		- sidegrade to km ar
 	- lmg (km)
 		- medium damage, medium pen, average firerate, above average mag size
-- ### Skills
+- ### 4.2 Skills
 	- #### Slot 1:
 		- fpv headset: can control all drones in first person view
 			- basically makes an individual one way more powerful movement, accuracy, and intelligence wise while keeping the player safe in a corner but requires you to stand still

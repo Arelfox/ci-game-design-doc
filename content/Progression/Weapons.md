@@ -1,16 +1,16 @@
 ---
 tags:
 ---
-# Guns
+# 1. Guns
 Guns cannot be dropped or stored in the [inventory](Inventory.md) during a run.
-# Gun Manufacturers
+## 1.1 Gun Manufacturers
 (all the naming for manufacturers and guns need to be rethought but it doesn't really matter until release)
 
 |                      | Keller-Maas Arms                                                                                                        | Duvallier                                                  | HAS (Haldane Applied Systems)    | Kovran (rename)                                                         | Wardell Defense                                                             |
 | -------------------- | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | -------------------------------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | Doctrine/Description | Mass produce cheap, practical, standardized weapons, pioneer in fully printed modular weapons, uses one shared gun body | Secondary major manufacturer with more specialized weapons | Pioneer in railguns and coilguns | Supply cheap shady and hard hitting weapons for insurgents or something | Smaller private defense company focused on compact personal defense weapons |
 | Visual design        | All grey black polymer or metal, no screws, skeletonized                                                                | angled plates                                              | boxy rectangles, uncomfortable   | wooden stocks or holds, picatinny only                                  | rounded triangles                                                           |
-# **Visual** Gun Design Table
+## 1.2 **Visual** Gun Design Table
 
 | Weapon Name | Manufac.  | Description (tbf)                             |
 | ----------- | --------- | --------------------------------------------- |
@@ -34,7 +34,7 @@ Guns cannot be dropped or stored in the [inventory](Inventory.md) during a run.
 |             | Wardell   | machine pistol                                |
 |             | Wardell   | smg                                           |
 
-# Melee
+# 2. Melee
 - Melee weapons are not locked to classes, and any class can equip whatever melee they want
 - melee weapons are useful because it means if you run out of resources you can still potentially save the run
 - they should be rewarding and useful, with the obvious risk of requiring you to get super close to near one shot enemies
@@ -42,7 +42,7 @@ Guns cannot be dropped or stored in the [inventory](Inventory.md) during a run.
 - could also be useful to later add stupid event weapons
 - they should also make you move slightly faster even if sometimes they are literally heavier than guns
 - in addition they could be a way to interact with a destructable map (if added) without spending ammo
-- ## Melee List
+- ## 2.1 Melee List
 	- sledgehammer with exploding 50 caliber head
 		- one shots a lot of stuff, also huge hitbox and creates explosion
 		- fun

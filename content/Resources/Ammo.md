@@ -1,9 +1,9 @@
 ---
 tags:
 ---
-# Ammo
+# 1. Ammo
 Aside from the amount you start with, ammunition can only be obtained via [printers](Crafting.md). More complex ammo is often rarer, and ammunition is caliber specific and must be loaded in a gun it is designed for.
-# Ammo Table
+## 1.1 Ammo Table
 (abstracted)
 
 | name       | color       | function                                                       | cost/10 | rarity/10 |
@@ -19,13 +19,13 @@ Aside from the amount you start with, ammunition can only be obtained via [print
 | smart      | blue        | automatically homes towards weakspots                          | 10      | 8         |
 | he         | yellow      | destroy external modules                                       | 3       | 3         |
 | airburst   | pink        | explosive damage behind cover                                  | 9       | 9         |
-# Gun Magazines
+# 2. Gun Magazines
 - Mags must be loaded in the [inventory](Inventory.md). Reloading does not magically pull from your ammo supply automatically
 - Mags are represented by a general white outline filled with colors representing the proportion of ammo
 	- on hover or in the mag select wheel you will still see text describing the contents (such as AP or AP/JHP) under
 	- unloaded ammo will also have their respective colors to allow for association during gameplay
 - The amount left in your inventory compatible with the equipped gun will appear on the ui, along with its coloring
-## Reloading
+## 2.1 Reloading
 - tap r
 	- reloads and picks the most full (tiebroken by rightmost in inventory for fine tuning) mag
 - double tap r
