@@ -12,6 +12,7 @@ tags:
 		- if you print T65B3G, it could be revealed to be a drone camera (which is useless to you)
 		- but if you decide to print J35A2CP, it could be revealed to be the holo sight you guessed based on the cost
 			- or, it could just be another piece of scrap
+	- unidentified prints, once printed, will be identified for the rest of the run (but not new runs after that)
 - Continuous usage of printers will cause the facility to flag it and permanently disable it, requiring players to find a new one
 - There are multiple types of printers, such as:
 	- (tba)

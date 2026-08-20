@@ -11,7 +11,7 @@ tags:
 - During a run, every few minutes [reinforcements](Enemies.md) (bosses) arrive **(finish)**
 - **(finish) (i gotta decide what to put here and what to put in specifics bruh)**
 ## 1.1 Hook
-- In depth damage system: ballistic bullet penetration simulation for enemies and players
+- In depth damage system: [ballistic bullet penetration simulation](Combat.md) for enemies and players
 - Procedurally generated room clearing runs
 - Mostly grounded sci-fi setting and concepts
 - Anthropomorphic [class](Classes.md) identities with customizable skills and [weapons](Weapons.md)
@@ -21,7 +21,7 @@ tags:
 ## Knowledge is Power
 - More experienced players will perform better because they know more about the game, not because they have better gear
 - Getting better comes down to learning [enemy](Enemies.md) armor layouts, [item](Items.md) functions, [printer](Crafting.md) recipes, [ammunition](Ammo.md) types, [room types](Facilities.md), good [class builds](Classes.md), and more
-- Information about a room, or printer recipes, is intentionally left impartial. Players can spend resources to gather more information to decide if the room is worth cleraing
+- Information about a room, or printer recipes, is intentionally left impartial. Players can spend resources to gather more information to decide if the room is worth clearing
 ## Attrition
 - Enemy encounters against a reasonably skilled player should not end the run. Instead, accumulated inefficiencies will drain the player's resources and force them to fight tougher enemies while remaining weak
 - An optimal player who saves ammo, aims well, and makes an effective build for themselves will be more prepared as the run continues
@@ -30,7 +30,12 @@ tags:
 - realism = immersion = good worldbuilding (!= fun)
 - Fun, cool, and interesting ideas will always come before however. Starting from or focusing on realism is boring
 # 3. Gameplay Loop
-(finish)
+1. Choose desired facility/mission
+2. Create or load class loadout
+3. Enter the facility and choose the first room
+4. Clear following rooms, gathering supplies to improve gear through printers
+5. Complete the objective before the difficulty escalates too much, extract with the rewards
+6. Spend earnings to unlock more content and make new builds
 # 4. Resources
 Resources in the game include:
 - [Health](Health.md)

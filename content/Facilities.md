@@ -33,3 +33,6 @@ Different facilities (missions) have different objectives and environments that 
 	- using scanners
 	- reading signs in some rooms
 	- (more to be added)
+- (room generation logic tbd)
+- ## Room Types
+	- (tbd but there will be big ones and small ones and special ones)

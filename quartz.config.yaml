@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: ci-game-design-doc.brianxu08.workers.dev
+  baseUrl: ci-game-design-doc.wroofie.workers.dev
   ignorePatterns:
     - private
     - templates

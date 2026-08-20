@@ -41,3 +41,14 @@ tags:
 	- ice themed boss
 	- carbine with under barrel liquid nitrogen thrower
 	- destroy back tank to cause it to explode
+
+# Enemy Damage (Non-organic)
+- Destroying any sort of optic will stun temporarily
+- Destroying all optics will completely blind the enemy, causing it to shoot randomly
+- Destroying one leg will only be visual, but destroying more than one will completely immobilize it (however, it can still shoot at you)
+- Damaging/destroying the horizontal or vertical drives will significantly slow the turret traverse
+- Destroying all weapons will instantly kill the enemy
+- Destroying a core part will instantly kill the enemy
+- Destroying destructible armor does nothing, and destroying nond (visually) destructible armor also does nothing
+# Enemy AI
+- tbd
