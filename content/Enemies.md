@@ -7,9 +7,9 @@ tags:
 - visual design
 	- Non-organic enemies should feel almost alien compared to organic characters
 	- Every non-organic enemy should have components such as lidars, optics (thermal, camera, etc.), and core(s) (the computer basically)
-# Enemy Types
+# Enemy Types:
 ## Non-organic (Robotic Facility Defense)
-- Non organic enemies can be salvaged after death, dropping (depending on [melee weapon](Weapons.md) salvage rates) metal, alloy, power cells, and rarely explosives
+- Non organic enemies can be **salvaged** after death, dropping (depending on [melee weapon](Weapons.md) salvage rates) metal, alloy, power cells, and rarely explosives
 - (NEED NAME)
 	- four legged, standard infantry equivalent
 	- lightly armored

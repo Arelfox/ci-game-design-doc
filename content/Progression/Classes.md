@@ -1,10 +1,12 @@
 # Classes
-- Classes are a collection of skills, weapons, and attributes which change how a player will enter and survive in each run
+- Classes are a collection of skills, [weapons](Weapons.md), and attributes which change how a player will enter and survive in each run
 - All classes should generally start weak and become stronger with gear
 - Class active and passive abilities must be scalable with the player's gear (more relevant late game), or at least stay relevant the entire game
 - Classes must remain unique throughout the run (especially endgame): homogenous classes are boring
-- Active abilities should not be spammable but they should also not have arbitrary cooldowns or cost power (power is already too useful elsewhere, making abilities cost it is too much)
-- Hire (unlock) new characters with resources
+- Active abilities should not be spammable but they should also not have arbitrary cooldowns or cost [power](Power.md) (power is already too useful elsewhere, making abilities cost it is too much)
+- Hire (unlock) new characters with [resources](Materials.md)
+
+(See [Weapons](Weapons.md) for manufacture details)
 
 ## Wolf
 - the starter class: balanced arsenal, average speed, good defense in short bursts, not too many obvious drawbacks
@@ -57,6 +59,7 @@
 		- overvolt
 			- increases shield protection by 50% but increases power usage by 100%
 ## Bear
+- heavy tank focused on being able to tank and return damage
 - high pen heavy weapons, very slow walkspeed, bad weapon handling, tons of physical armor and survivability (resource intensive to repair if you are reckless)
 - ### Weapons
 	- lmg (korvan)
@@ -105,6 +108,7 @@
 		- (need name and engineering/lore explaination)
 			- damage is deferred over a period of time
 ## Fox
+- light class focused on movement and being able to turn invisible
 - light low heat weapons, fast, no survivability in direct fire (but can become invisible)
 	- balanced because the fox can always shoot weakspots and position anywhere, or run away any time (ultimate control)
 - (see [[Story]] for explanation of heat)
@@ -160,6 +164,7 @@
 			- im not coding this
 			- either too op being locked to a class which already can turn invisible or completely useless because its indoors
 ## Badger (\*species tbd)
+- [drone](Drones.md) focused class
 - starts off with a micro drone
 - balanced longer range arsenal, average speed, low defense/survivability but can avoid direct engagement with drones
 - ## Weapons

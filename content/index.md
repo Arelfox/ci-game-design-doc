@@ -31,10 +31,10 @@ tags:
 - Fun, cool, and interesting ideas will always come before however. Starting from or focusing on realism is boring
 # 3. Gameplay Loop
 1. Choose desired facility/mission
-2. Create or load class loadout
-3. Enter the facility and choose the first room
-4. Clear following rooms, gathering supplies to improve gear through printers
-5. Complete the objective before the difficulty escalates too much, extract with the rewards
+2. Create or load [class](Classes.md) loadout
+3. Enter the [facility](Facilities.md) and choose the first room
+4. Clear following rooms, gathering supplies to improve gear through [printers](Crafting.md)
+5. Complete the objective before the difficulty escalates too much, [extract](Extraction.md) with the rewards
 6. Spend earnings to unlock more content and make new builds
 # 4. Resources
 Resources in the game include:

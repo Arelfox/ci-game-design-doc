@@ -9,4 +9,8 @@ tags:
 - ...
 # Effects
 - hurt effect is screen blur + bloom increase + monochrome
-- 
+
+
+
+
+this honestly doesn't matter right now so ill finish it later

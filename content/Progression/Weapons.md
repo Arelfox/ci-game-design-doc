@@ -3,34 +3,7 @@ tags:
 ---
 # Guns
 Guns cannot be dropped or stored in the [inventory](Inventory.md) during a run.
-# Melee
-Melee weapons are not locked to classes, and any class can equip whatever melee they want
-## Melee List
-- sledgehammer with exploding 50 caliber head
-	- one shots a lot of stuff, also huge hitbox and creates explosion
-	- fun
-	- lower salvage rates
-	- requires heavy ammo to load the head, and the user has to play a reload animation, otherwise still does decent damage
-- angle grinder
-	- constant low dps
-	- high salvage rates
-- fireaxe? (with arm exoskeleton?)
-	- hitting consecutive hits increases swing speed
-	- average salvage rates
-- shock pickaxe (small pick with a battery on top)
-	- stuns but requires like 2 hits to build up charge after
-- fists
-	- move faster than other melees but only a little
-	- does self damage instead of damaging the enemy lol
-- jackhammer
-	- like angle grinder but way more damage and less salvage rate
-- ~~blowtorch~~
-- ~~snips (??)~~
-	- ~~reward skill and be kinda funny~~
-	- ~~tiny forward only hitbox~~
-	- ~~if you cut a wire you one shot anything but gl~~
-	- ~~high salvage rate~~
-# Weapon Manufacturers
+# Gun Manufacturers
 (all the naming for manufacturers and guns need to be rethought but it doesn't really matter until release)
 
 |                      | Keller-Maas Arms                                                                                                        | Duvallier                                                  | HAS (Haldane Applied Systems)    | Kovran (rename)                                                         | Wardell Defense                                                             |
@@ -60,3 +33,37 @@ Melee weapons are not locked to classes, and any class can equip whatever melee 
 | WS          | Wardell   | foldable smg                                  |
 |             | Wardell   | machine pistol                                |
 |             | Wardell   | smg                                           |
+
+# Melee
+- Melee weapons are not locked to classes, and any class can equip whatever melee they want
+- melee weapons are useful because it means if you run out of resources you can still potentially save the run
+- they should be rewarding and useful, with the obvious risk of requiring you to get super close to near one shot enemies
+- can do module damage but should do damage to any modules hit in path and the hitscan path should be pretty wide/long
+- could also be useful to later add stupid event weapons
+- they should also make you move slightly faster even if sometimes they are literally heavier than guns
+- in addition they could be a way to interact with a destructable map (if added) without spending ammo
+- ## Melee List
+	- sledgehammer with exploding 50 caliber head
+		- one shots a lot of stuff, also huge hitbox and creates explosion
+		- fun
+		- lower salvage rates
+		- requires heavy ammo to load the head, and the user has to play a reload animation, otherwise still does decent damage
+	- angle grinder
+		- constant low dps
+		- high salvage rates
+	- fireaxe? (with arm exoskeleton?)
+		- hitting consecutive hits increases swing speed
+		- average salvage rates
+	- shock pickaxe (small pick with a battery on top)
+		- stuns but requires like 2 hits to build up charge after
+	- fists
+		- move faster than other melees but only a little
+		- does self damage instead of damaging the enemy lol
+	- jackhammer
+		- like angle grinder but way more damage and less salvage rate
+	- ~~blowtorch~~
+	- ~~snips (??)~~
+		- ~~reward skill and be kinda funny~~
+		- ~~tiny forward only hitbox~~
+		- ~~if you cut a wire you one shot anything but gl~~
+		- ~~high salvage rate~~

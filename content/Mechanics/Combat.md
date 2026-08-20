@@ -22,6 +22,6 @@ tags:
 	- Otherwise shares the same penetration system as enemies (see above)
 # Shields
 - (see [Story](Story.md) for lore explanation)
-- Shields will apply a flat penetration (and damage) decrease for incoming shots, the amount depending on the [grade](Items) of the shield.
+- Shields will apply a flat penetration (and damage) decrease for incoming shots, the amount depending on the [grade](Items.md) of the shield.
 - While they will melt smaller projectiles, larger caliber shots may pass through relatively unaffected
 - Shields do not protect against explosion shockwaves

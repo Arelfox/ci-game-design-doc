@@ -3,7 +3,7 @@ tags:
 ---
 # Printers
 - 3d printers are found randomly in rooms
-- Printers come with a preset list of [items](Items) that can be printed. Some of these items' names are not decodable and do not tell the player what they print, but can be printed regardless
+- Printers come with a preset list of [items](Items.md) that can be printed. Some of these items' names are not decodable and do not tell the player what they print, but can be printed regardless
 	- you can choose to risk printing an unidentified print, but it may make a item completely useless to you such as a drone camera or metal strut
 	- however, players can always see the material cost of each print, meaning experienced players can guess what they might be printing
 	- EXAMPLE (just to illustrate the point):
