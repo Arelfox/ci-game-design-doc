@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: arelfox.github.io/ci-game-design-doc
+  baseUrl: ci-game-design-doc.brianxu08.workers.dev
   ignorePatterns:
     - private
     - templates
