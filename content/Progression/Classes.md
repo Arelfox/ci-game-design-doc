@@ -8,19 +8,19 @@
 
 (See [Weapons](Weapons.md) for manufacture details)
 
-## 1. Wolf
+## 1. Cairo (Wolf)
 - the starter class: balanced arsenal, average speed, good defense in short bursts, not too many obvious drawbacks
 - starts with light shield
 - ### 1.1 Weapons
-	- medium ar (k.m.)
+	- medium ar (km-14b)
 		- good dps, medium pen
-	- bullpup ar (duvallier)
+	- bullpup ar (duvallier Faucon)
 		- medium damage, high pen, high recoil, below average mag size
-	- shotgun (korvan)
+	- shotgun (korvan Buran)
 		- high single shot damage, medium pen, low mag size, low accuracy
-	- medium pistol (duvallier)
-		- medium damage, average pen, average rate of fire, good ammo efficiency, low recoil
-	- coilgun (h.a.s.)
+	- medium pistol (duvallier Épervier)
+		- medium damage, average pen, average rate of fire, good ammo efficiency, low recoil, fast reload
+	- coilgun (has CGS-01)
 		- maintains full accuracy while magnetic protection system is active
 		- low damage, low pen, high firerate, high mag size
 		- autoaims a little bit towards weak spots
@@ -58,20 +58,20 @@
 			- reduces shield protection by 25% but decreases power useage per activation by 60%
 		- overvolt
 			- increases shield protection by 50% but increases power usage by 100%
-## 2. Bear
+## 2. Daegu? Kirov? (Bear)
 - heavy tank focused on being able to tank and return damage
 - high pen heavy weapons, very slow walkspeed, bad weapon handling, tons of physical armor and survivability (resource intensive to repair if you are reckless)
 - ### 2.1 Weapons
-	- lmg (korvan)
+	- heavy lmg (korvan Molot-73)
 		- high damage, medium pen, huge mag size, long reload, below average firerate
 		- looks sick
 		- cant ads (chainsaw grip)
-	- heavy pistol (duvallier)
+	- heavy pistol (duvallier Grom-6)
 		- high damage, high pen, below average rate of fire, low mag size, fast reload
 		- good ammo efficiency, rewards aiming
-	- shotgun (duvallier)
+	- shotgun (duvallier Milan)
 		- large (for shotgun) mag size, very high damage, semi auto, average pen
-	- medium smg (km)
+	- medium smg (km14c)
 		- medium damage, medium pen, very fast firerate, above average recoil
 	- amr? (i want to save this for another class)
 - ### 2.2 Skills
@@ -107,27 +107,27 @@
 			- cap incoming damage to 40
 		- (need name and engineering/lore explaination)
 			- damage is deferred over a period of time
-## 3. Fox
+## 3. Sucre? Davos? Talas? (Fox)
 - light class focused on movement and being able to turn invisible
 - light low heat weapons, fast, no survivability in direct fire (but can become invisible)
 	- balanced because the fox can always shoot weakspots and position anywhere, or run away any time (ultimate control)
 - (see [[Story]] for explanation of heat)
 - ## 3.1 Weapons
-	- light smg (wardell)
+	- light smg (WD-S/5.56)
 		- high rof, low damage, average pen
 		- doesnt need high pen to be effective bc of weakspots
-	- machine pistol (wardell)
+	- machine pistol (WD-P/9)
 		- medium damage, low pen, very high rate of fire
 		- very fast reload and low magazine size, synergies with mag heatsink skill
-	- shotgun (korvan)
+	- shotgun (korvan Buran)
 		- high damage in cqc, medium pen, low mag size
 		- run in, shoot, run out
-	- electrothermal rifle
+	- electrothermal rifle (ETR 8.5)
 		- high pen, medium damage, more expensive ammo, average firerate
 			- no longer need weakspots
 		- generates a ton of heat, discourages use while invisible
 		- changes playstyle to use invisibility to get away instead of get behind
-	- super suppressed pistol
+	- super suppressed pistol (WD-PS/9)
 		- low damage, low pen, low mag size, fast reload
 		- enemies no longer target you (sound signature too unclear) when you fire while invisible
 			- means you are actually untouchable while invis but you have to use a low caliber pistol
@@ -163,20 +163,20 @@
 		- grappling hook
 			- im not coding this
 			- either too op being locked to a class which already can turn invisible or completely useless because its indoors
-## 4. Badger (\*species tbd)
+## 4. Narva (Badger, \*species tbd)
 - [drone](Drones.md) focused class
 - starts off with a micro drone
 - balanced longer range arsenal, average speed, low defense/survivability but can avoid direct engagement with drones
 - ## 4.1 Weapons
-	- dmr (km)
+	- dmr (km14e)
 		- above average damage, medium pen, below average mag size, low recoil, accurate
-	- medium ar (km)
+	- medium ar (km14b)
 		- good dps, medium pen
 		- just a basic rifle
-	- battle rifle (korvan)
+	- battle rifle (korvan Moroz-88)
 		- above average damage, medium pen, high recoil, below average mag size
 		- sidegrade to km ar
-	- lmg (km)
+	- lmg (km14g)
 		- medium damage, medium pen, average firerate, above average mag size
 - ### 4.2 Skills
 	- #### Slot 1:

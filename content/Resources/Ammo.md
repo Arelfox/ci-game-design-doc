@@ -19,6 +19,18 @@ Aside from the amount you start with, ammunition can only be obtained via [print
 | smart      | blue        | automatically homes towards weakspots                          | 10      | 8         |
 | he         | yellow      | destroy external modules                                       | 3       | 3         |
 | airburst   | pink        | explosive damage behind cover                                  | 9       | 9         |
+## 1.2 Ammo Calibers
+- 5.56×45 (light)
+- 6.8×51 (medium)
+- 7.62×51 (older medium)
+- 8.6×60 (heavy)
+- 12.7×99 (anti material)
+- 8.5x60 ET (electrothermal cartridge)
+- 9x19 (light pistol)
+- 10x25 (medium pistol)
+- 12.7x33 (heavy pistol)
+- 10 gauge (medium shotgun)
+- 12 gauge (light shotgun)
 # 2. Gun Magazines
 - Mags must be loaded in the [inventory](Inventory.md). Reloading does not magically pull from your ammo supply automatically
 - Mags are represented by a general white outline filled with colors representing the proportion of ammo
