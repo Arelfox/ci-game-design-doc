@@ -25,19 +25,19 @@ tags:
 - Reinforcements must have at least one "phase" to keep it interesting
 - Unlike normal enemies, reinforcements have artificially buffed health. This is to keep them oppressive and not too weak
 - Doors cannot be opened while reinforcements are active
-- ### 2.2.1 Ocelot
+- ### 2.2.1 Jaeger Class 057 (Ocelot)
 	- shielded agile sniper
 	- Has magnetic protection system and railgun
 		- while active, kinetic projectiles will curve past and not deal damage
 		- when they fire the railgun, the magnetic protection system will temporarily disable to charge the railgun
 	- Players must bait shots to defeat
 	- destroy projector on chest to cause the armor to collapse in and crush them
-- ### 2.2.2 German Shepherd / Malinois
+- ### 2.2.2 Sentry Unit (German Shepherd / Malinois)
 	- boss enemy, loyal elite soldier trope (animal trope is police dog ofc)
 	- very well geared, commanding squad of 4 others
 	- physical metal shields, assault rifles, etc.
 	- test if players are prepared with ammo and can use cover or other advantages to win an unfair gunfight
-- ### 2.2.3 Snow Leopard
+- ### 2.2.3 Everest Class 335 (Snow Leopard)
 	- ice themed boss
 	- carbine with under barrel liquid nitrogen thrower
 	- destroy back tank to cause it to explode

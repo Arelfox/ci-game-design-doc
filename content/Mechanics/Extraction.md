@@ -6,7 +6,8 @@ tags:
 - Extractions will take a random amount of time, and only an estimate is shown to the player
 - Extractions will occur in a random unvisited room, forcing the player to clear ~4 more rooms before reaching the targeted room
 	- force players to rush a little to increase tension without increasing enemy difficulty
-- Extracting before an objective is complete is allowed, but you will not earn the main reward
+- ~~Extracting before an objective is complete is allowed, but you will not earn the main reward~~
+	- Extraction before an objective is not allowed; command will deny the request
 - ## Extraction event
 	- shielded vtol craft makes an opening in roof to extract from
 	- queue aa fire, explosions, flares, etc should be **dramatic and cinematic** especially sound effects

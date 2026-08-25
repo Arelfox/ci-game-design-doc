@@ -7,7 +7,8 @@
 - Hire (unlock) new characters with [resources](Materials.md)
 
 (See [Weapons](Weapons.md) for manufacture details)
-
+***
+***
 ## 1. Cairo (Wolf)
 - the starter class: balanced arsenal, average speed, good defense in short bursts, not too many obvious drawbacks
 - starts with light shield
@@ -19,7 +20,7 @@
 	- shotgun (korvan Buran)
 		- high single shot damage, medium pen, low mag size, low accuracy
 	- medium pistol (duvallier Épervier)
-		- medium damage, average pen, average rate of fire, good ammo efficiency, low recoil, fast reload
+			- medium damage, average pen, average rate of fire, good ammo efficiency, low recoil, fast reload
 	- coilgun (has CGS-01)
 		- maintains full accuracy while magnetic protection system is active
 		- low damage, low pen, high firerate, high mag size
@@ -58,7 +59,9 @@
 			- reduces shield protection by 25% but decreases power useage per activation by 60%
 		- overvolt
 			- increases shield protection by 50% but increases power usage by 100%
-## 2. Daegu? Kirov? (Bear)
+***
+***
+## 2. Kirov (Bear)
 - heavy tank focused on being able to tank and return damage
 - high pen heavy weapons, very slow walkspeed, bad weapon handling, tons of physical armor and survivability (resource intensive to repair if you are reckless)
 - ### 2.1 Weapons
@@ -103,11 +106,12 @@
 			- ~~if a shield is equipped, the plasma will reweld armor and it will not lose durability~~
 			- ~~kinda redundant but i wanted to write it down in case~~
 	- #### Slot 3: (health stuff)
-		- bone plating
+		- subdermal plating
 			- cap incoming damage to 40
 		- (need name and engineering/lore explaination)
 			- damage is deferred over a period of time
-## 3. Sucre? Davos? Talas? (Fox)
+***
+## 3. Vegas (Fox)
 - light class focused on movement and being able to turn invisible
 - light low heat weapons, fast, no survivability in direct fire (but can become invisible)
 	- balanced because the fox can always shoot weakspots and position anywhere, or run away any time (ultimate control)
@@ -163,7 +167,9 @@
 		- grappling hook
 			- im not coding this
 			- either too op being locked to a class which already can turn invisible or completely useless because its indoors
-## 4. Narva (Badger, \*species tbd)
+***
+***
+## 4. Dijon (Badger, \*species tbd)
 - [drone](Drones.md) focused class
 - starts off with a micro drone
 - balanced longer range arsenal, average speed, low defense/survivability but can avoid direct engagement with drones
@@ -223,3 +229,57 @@
 		- ~~modular upgrader~~
 			- ~~can merge drones to get more firepower and armor~~
 			- ~~i have no idea how modeling will work for this~~
+***
+***
+## 5. Tulsa (Lynx)
+- medic trope, personal and team healing
+- balanced arsenal
+- ### 5.1 Weapons
+	- 
+- ### 5.2 Skills
+	- #### Slot 1:
+		- (name)
+			- spend chemicals to create a selection of temporary buffs
+				- adrenaline
+					- handling increase, pain effect decrease
+				- coagulant
+					- bleed reduction
+				- uhhh
+	- #### Slot 2:
+		- smoke generator
+			- creates smoke on lmb, or throw with rmb (retrivable)
+			- refill with chemicals
+	- #### Slot 3:
+		- (name)
+			- 
+
+***
+***
+# 6. Character Names
+character names are all 5 letter cities
+list of potential names i like:
+- **cairo** (egypt)
+- **daegu** (south korea)
+- **kirov** (russia)
+- sucre (bolivia)
+- **davos** (switzerland)
+- **talas** (kyrgyzstan)
+- narva (estonia)
+- pakse (laos)
+- nitra (slovakia)
+- moron (lol) (cuba)
+- altos (paraguay)
+- taupo (new zealand)
+- bluff (new zealand) (verb so probably not)
+- **dijon** (france)
+- altea (spain)
+- miami (usa)
+- akron (usa)
+- **tulsa** (usa)
+- jalpa (canada)
+- salto (uruguay)
+- namur (belgium)
+- liege (belgium) (noun)
+- temir (kazakhstan)
+- aktau (kazakhstan)
+- **akita** (japan)

@@ -5,16 +5,30 @@ tags:
 - The ballistics system will not be "fully simulated" to ensure simplicity
 	- This will make it easier to balance and control while remaining realistic
 - ## 1.1 [Enemy](Enemies.md) Armor
-	- Effective thickness based on angle of the impact
-		- Damage to the part is independent of the effective thickness, effective thickness only influences penetration power
-	- All parts with colliders are modeled with hp and armor and are destructible (but not visually)
-	- No post pen shrapnel, only the main bullet with penetration falloff
-	- Hitting a shot will always damage something, even non-pens will do a small amount of damage to simulate armor degradation
-	- Penetration mostly determines if a shot continues through the current part to the next or not
-		- especially includes internal modules
-	- If a shot did not clearly penetrate, shots will become partial penetrations
+	- Angle of shot is not a consideration
+	- No post pen shrapnel is simulated
+		- ricochets can be visual for non-pens (given angle is within sensible range) though
+	- All parts with colliders are modeled with health and armor and are destructible (but not visually)
+		- if a part has 0 hp, it should not be able to continue blocking shots
+	- All core components share a global health pool
+	- Hit Conditions:
+		- No penetration:
+			- if hit armor is thicker than the current penetration value, the damage of the bullet is applied to the hit part and the bullet stops
+			- non pens only damage armor parts
+			- should flash a non pen ui if the bullet 
+		- ~~Partial penetration:~~
+			- ~~if hit armor is within a percent (e.g. 70%+) of the current penetration value, it is a partial penetration~~
+			- ~~partial penetrations half its current penetration power and damage~~
+			- ~~the damage of the bullet is then applied to the hit part and continues through the same direction~~
+		- Full penetration:
+			- if hit armor is less thick than the current penetration value, and not a partial penetration, it will subtract the amount of material penetrated from its current penetration value
+			- no damage loss (?)
+			- the damage of the bullet is then applied to the penetrated part and continues through in the same direction
+		- No energy:
+			- if a bullet has 0 penetration power left, even if there is bullet didnt damage anything but armordamage left it should stop
 	- There is no damage falloff
-	- Explosive effect rounds done using a sphere collider instead of many shrapnel raycasts
+	- Explosive effect rounds are done using a sphere collider instead of many shrapnel raycasts
+	- 
 - ## 1.2 [Player](Classes.md) and [Player Ally](Drones.md) Armor
 	- Player armor isn't physically modeled and covers an entire limb (uses the player colliders)
 		- This is to prevent deaths and frustration caused by raycasts going through a tiny gap in the armor

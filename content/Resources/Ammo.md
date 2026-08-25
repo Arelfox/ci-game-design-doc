@@ -5,6 +5,7 @@ tags:
 Aside from the amount you start with, ammunition can only be obtained via [printers](Crafting.md). More complex ammo is often rarer, and ammunition is caliber specific and must be loaded in a gun it is designed for.
 ## 1.1 Ammo Table
 (abstracted)
+(see [[Items]])
 
 | name       | color       | function                                                       | cost/10 | rarity/10 |
 | ---------- | ----------- | -------------------------------------------------------------- | ------- | --------- |
@@ -19,15 +20,33 @@ Aside from the amount you start with, ammunition can only be obtained via [print
 | smart      | blue        | automatically homes towards weakspots                          | 10      | 8         |
 | he         | yellow      | destroy external modules                                       | 3       | 3         |
 | airburst   | pink        | explosive damage behind cover                                  | 9       | 9         |
+
+### Shotguns:
+
+| name            | color  | function                                 | cost | rarity |
+| --------------- | ------ | ---------------------------------------- | ---- | ------ |
+| #1 buckshot     | white  | baseline shotgun            0 buckshot   |      |        |
+| #0000 buckshot  | green  | way less pellets for way more damage     |      |        |
+| flechette       | orange | more penetration                         |      |        |
+| slug            | blue   | single shot, more penetration and damage | 4    |        |
+| slug (apds)     | purple | single shot, even more penetration       | 9    |        |
+| slug (he)       | yellow | destroy external modules                 |      |        |
+| slug (airburst) | pink   | explosive damage behind cover            | 10   |        |
+| xrep (?)        |        | stuns?                                   |      |        |
+
 ## 1.2 Ammo Calibers
 - 5.56×45 (light)
+	- no apds/airburst option
+	- less explosive aphe, he
 - 6.8×51 (medium)
 - 7.62×51 (older medium)
 - 8.6×60 (heavy)
 - 12.7×99 (anti material)
 - 8.5x60 ET (electrothermal cartridge)
 - 9x19 (light pistol)
+	- no apds/airbust option
 - 10x25 (medium pistol)
+	- no apds/airburst option
 - 12.7x33 (heavy pistol)
 - 10 gauge (medium shotgun)
 - 12 gauge (light shotgun)
