@@ -10,6 +10,7 @@ Different facilities (missions) have different objectives and environments that 
 	- Chemical
 		- More chemicals
 		- Hazardous rooms
+	- 
 - ## Objectives
 	- set extraction time
 		- there is only 1 extraction opprotunity and your goal is to get as much stuff in that window
@@ -29,10 +30,10 @@ Different facilities (missions) have different objectives and environments that 
 		- easy --> normal --> easy --> hard
 		- extraction should feel like a relief, but you should also be able to feel op with a complete build at some point
 # Rooms
+- All rooms fit a 60x60 meter grid cell, with doors on all sides.
 - Information on what is inside a room can be obtained by:
 	- using scanners
 	- reading signs in some rooms
 	- (more to be added)
 - (room generation logic tbd)
-- ## Room Types
-	- (tbd but there will be big ones and small ones and special ones)
+- 

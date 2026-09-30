@@ -12,27 +12,27 @@ Guns cannot be dropped or stored in the [inventory](Inventory.md) during a run.
 | Visual design        | All grey black polymer or metal, no screws, skeletonized                                                                | angled plates                                                                                                                           | boxy rectangles, uncomfortable                                                                     | wooden stocks or holds, picatinny only                                                 | rounded triangles                                                                 |
 ## 1.2 Gun Design Table
 
-| Weapon Name | Manufac.  | Description (tbf)                             | Ammo            |
-| ----------- | --------- | --------------------------------------------- | --------------- |
-| KM-14b      | KM        | ar                                            | 6.8×51          |
-| KM-16       | KM        | smg                                           | 5.56×45         |
-| KM-14g      | KM        | lmg                                           | 6.8×51          |
-| KM-14e      | KM        | dmr                                           | 6.8×51          |
-| Vautour     | Duvallier | sniper rifle,                                 | 8.6×60          |
-| Épervier*   | Duvallier | pistol, special medium caliber, half slide    | 10x25           |
-| Milan*      | Duvallier | shotgun, semi auto                            | 10 ga           |
-| Faucon*     | Duvallier | bullpup ar                                    | 6.8×51          |
-| ETR 8.5     | HAS       | electrothermal rifle, 8.5mm,                  | 8.5x60 ET       |
-| CGS-01      | HAS       | bullpup coilgun (coil gun system 1)           | 5               |
-| HASRD       | HAS       | railgun (haldane applied systems rail device) | 10/5 rail sabot |
-| Moroz-88    | Kovran    | battle rifle                                  | 7.62×51         |
-| Grom-6*     | Kovran    | hand cannon                                   | 12.7x33         |
-| Molot-73*   | Kovran    | lmg, chainsaw grip                            | 8.6×60          |
-| Buran*      | Kovran    | shotgun, pump, two tubes and barrels          | 12 ga           |
-| Zubr*       | Kovran    | amr, reciprocating barrel                     | 12.7×99         |
-| WD-S/5.56   | Wardell   | foldable smg                                  | 5.56×45         |
-| WD-P/9      | Wardell   | machine pistol                                | 9x19            |
-| WD-PS/9     | Wardell   | pistol, internal heavy suppressor             | 9x19 SUB        |
+| Weapon Name       | Manufac.  | Description (tbf)                             | Ammo            |
+| ----------------- | --------- | --------------------------------------------- | --------------- |
+| KM-14a            | KM        | ar                                            | 6.8×51          |
+| KM-16             | KM        | smg                                           | 5.56×45         |
+| KM-14g            | KM        | lmg                                           | 6.8×51          |
+| KM-14e            | KM        | dmr                                           | 6.8×51          |
+| Vautour           | Duvallier | sniper rifle,                                 | 8.6×60          |
+| Épervier*         | Duvallier | pistol, special medium caliber, half slide    | 10x25           |
+| Milan*            | Duvallier | shotgun, semi auto                            | 10 ga           |
+| Faucon*           | Duvallier | bullpup ar                                    | 6.8×51          |
+| ~~ETR 8.5~~ HASEL | HAS       | electrothermal rifle, 8.5mm                   | 8.5x60 ET       |
+| CGS               | HAS       | bullpup coilgun (coil gun system)             |                 |
+| HASRD             | HAS       | railgun (haldane applied systems rail device) | 10/5 rail sabot |
+| Moroz-88          | Kovran    | battle rifle                                  | 7.62×51         |
+| Grom-6*           | Kovran    | hand cannon                                   | 12.7x33         |
+| Molot-73*         | Kovran    | lmg, chainsaw grip                            | 8.6×60          |
+| Buran*            | Kovran    | shotgun, pump, two tubes and barrels          | 12 ga           |
+| Zubr*             | Kovran    | amr, reciprocating barrel                     | 12.7×99         |
+| WD-S/5.56         | Wardell   | foldable smg                                  | 5.56×45         |
+| WD-P/9            | Wardell   | machine pistol                                | 9x19            |
+| WD-PS/9           | Wardell   | pistol, internal heavy suppressor             | 9x19 SUB        |
 
 # 2. Melee
 - Melee weapons are not locked to classes, and any class can equip whatever melee they want

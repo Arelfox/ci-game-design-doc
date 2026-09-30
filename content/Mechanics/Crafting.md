@@ -16,11 +16,6 @@ tags:
 - Continuous usage of printers will cause the facility to flag it and permanently disable it, requiring players to find a new one
 - There are multiple types of printers, such as:
 	- (tba)
-## 1.2 Mixing
-printers can also make certain [raw materials](Materials.md):
-- alloy + metal --> electronics
-- metal + chemicals --> power cells
-- polymer + chemicals --> explosives
 # 2. Scrappers
 - Scrappers can take any non-permanent item and convert it into a portion of the [raw materials](Materials.md) it takes to create it
 - This gives players a way to discard useless items and gain raw materials, sacrifice items for resources, or cut on losses for accidental prints

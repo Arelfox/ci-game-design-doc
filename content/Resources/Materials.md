@@ -1,7 +1,9 @@
 ---
 tags:
 ---
-# Material List
+# 1. Materials
+Players have limited inventory space for collected materials. However, the vehicle they bring will be infinite in capacity.
+## 1.1 Material List
 
 | material    | use                                                                                         | source                       |
 | ----------- | ------------------------------------------------------------------------------------------- | ---------------------------- |

@@ -13,7 +13,7 @@
 - the starter class: balanced arsenal, average speed, good defense in short bursts, not too many obvious drawbacks
 - starts with light shield
 - ### 1.1 Weapons
-	- medium ar (km-14b)
+	- medium ar (km-14a)
 		- good dps, medium pen
 	- bullpup ar (duvallier Faucon)
 		- medium damage, high pen, high recoil, below average mag size
@@ -176,7 +176,7 @@
 - ## 4.1 Weapons
 	- dmr (km14e)
 		- above average damage, medium pen, below average mag size, low recoil, accurate
-	- medium ar (km14b)
+	- medium ar (km14a)
 		- good dps, medium pen
 		- just a basic rifle
 	- battle rifle (korvan Moroz-88)
@@ -252,6 +252,18 @@
 	- #### Slot 3:
 		- (name)
 			- 
+
+***
+***
+## 6. Jalpa (Reindeer) (Event)
+
+***
+***
+## 7. Akron (Bat) (Event)
+
+***
+***
+## 8. Daegu (Alligator)
 
 ***
 ***
